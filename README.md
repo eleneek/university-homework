@@ -1,5 +1,9 @@
 # university-homework
 Repository for university projects
+
+
+
+
 #Task1
 Write a function to flatten the multidimentional array.
 For example :
