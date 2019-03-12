@@ -6,9 +6,12 @@ Repository for university projects
 
 #Task1
 Write a function to flatten the multidimentional array.
+
 For example :
   multi_dimensional_array = [1,[9,[[[[[2]]]]]],[[[2],[12,[2]],[10]]]
+  
   print(yourFunction(multi_dimesnional_array))
+  
   answer: [1, 9,2,2,12,2,10]
   
 #Task2
